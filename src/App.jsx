@@ -1,4 +1,5 @@
 import NormalDistribution from "./NormalDistribution";
+import "./index.css";
 
 function App() {
   return (
